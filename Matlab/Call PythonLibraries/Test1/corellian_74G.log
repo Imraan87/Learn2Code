@@ -1,0 +1,474 @@
+FPGA version      : 0x2D
+Commit hash (eval): 363312a0f4620a8bfe26dee921c3b0a3a0d1f7e2 
+Commit hash (FW)  : 0b14ad36850ec4a61104d166168163c327945002 
+You are using pip version 7.0.3+xy.11, however version 9.0.1 is available. 
+You should consider upgrading via the 'python -m pip install --upgrade pip' command. 
+-curses==2.2 
+aafigure==0.5 
+alabaster==0.7.6 
+alembic==0.7.6 
+apipkg==1.4 
+apptools==4.3.0 
+astroid==1.3.6 
+astropy==1.0.3 
+atom==0.3.10 
+Babel==1.3 
+backports.datetime-timestamp==1.0.2.dev0 
+backports.functools-lru-cache==1.0.2.dev0 
+backports.method-request==1.0.1.dev0 
+backports.shutil-get-terminal-size==1.0.0 
+backports.ssl-match-hostname==3.4.0.2 
+basemap==1.0.2 
+Beaker==1.7.0 
+BeautifulSoup==3.2.1 
+beautifulsoup4==4.3.2 
+bitstring==3.1.5 
+blinker==1.4.dev0 
+blockcanvas==4.0.3 
+blosc==1.2.7 
+bloscpack==0.7.2 
+Bottleneck==1.0.0 
+CacheControl==0.11.5 
+cchardet==0.3.5 
+cdecimal==2.3 
+certifi==2015.4.28 
+cffi==1.1.2 
+chaco==4.5.0 
+chardet==2.3.0 
+click==6.6 
+codetools==4.2.0 
+colorama==0.3.3 
+configobj==5.0.6+xy.1 
+configparser==3.5.0b2 
+cov-core==1.15.0 
+coverage==3.7.1 
+cryptography==1.0.dev1 
+cssselect==0.9.1 
+cvxopt==1.1.7 
+cvxpy==0.2.24 
+cx-Freeze==4.3.4 
+cyordereddict==0.2.3.dev7 
+Cython==0.22.1 
+cytoolz==0.7.3 
+datrie==0.7.1.dev37 
+decorator==3.4.2 
+distlib==0.2.0 
+docutils==0.12 
+docutils-aafigure==0.3 
+ecdsa==0.13.1.dev0 
+ecos==1.1.1 
+ed25519ll==0.6 
+egenix-mx-base==3.2.8 
+enable==4.5.1 
+enaml==0.9.8 
+enamllexer==0.0.0 
+encore==0.6.0 
+enum34==1.0.4 
+envisage==4.4.0 
+ets==4.4.4 
+etsdevtools==4.0.2 
+etsproxy==0.1.2 
+execnet==1.3.1.dev11+n2a4d009856d7 
+Fabric==1.10.2 
+fabric-virtualenv==0.2.1 
+faulthandler==2.4 
+ffnet==0.8.0 
+Flask==0.11.1 
+Flask-JSONRPC==0.3.1 
+fonttools==2.4 
+formlayout==1.0.15 
+funcsigs==0.4 
+futures==3.0.3 
+GDAL==1.11.2 
+gevent==1.0.2 
+gevent-websocket==0.9.5 
+graphcanvas==4.0.2 
+greenlet==0.4.7 
+grin==1.2.1+xy1 
+guidata==1.6.1 
+guiqwt==2.3.2 
+h5py==2.5.0 
+html5lib==0.99999 
+idna==2.1.dev1 
+ipaddress==1.0.7 
+ipdb==0.8.1 
+ipdbplugin==1.4.2 
+ipython==2.4.1 
+itsdangerous==0.24 
+jaraco.apt==1.0 
+jaraco.classes==1.2 
+jaraco.collections==1.1 
+jaraco.context==1.3 
+jaraco.functools==1.3 
+jaraco.structures==1.0 
+jaraco.text==1.4 
+jaraco.ui==1.3.1 
+jaraco.windows==3.4 
+jdcal==1.0 
+jedi==0.9.0 
+Jinja2==2.7.3 
+keyring==5.3 
+kiwisolver==0.1.3 
+libnacl==1.4.3 
+libusb1==1.5.0 
+linecache2==1.0.0 
+lockfile==0.10.2.post7 
+logilab-common==0.63.2 
+lxml==3.4.4 
+mahotas==1.3.0 
+Mako==1.0.1 
+MarkupSafe==0.23 
+matplotlib==1.4.3 
+mayavi==4.4.2 
+MDP==3.3 
+mock==1.0.1 
+modernize==0.4 
+more-itertools==2.3.dev0 
+ndg-httpsclient==0.4.0 
+netCDF4==1.1.8 
+netifaces==0.10.4 
+networkx==1.9.1 
+nose==1.3.7 
+nose-cov==1.6 
+nose-fixes==1.3 
+numexpr==2.4.3 
+numpy==1.11.1 
+numpydoc==0.6.dev0 
+oauthlib==0.7.3.dev0 
+objgraph==2.0.1.dev0 
+opencv-python==2.4.11 
+openpyxl==2.2.4 
+packaging==15.2 
+pandas==0.16.2 
+paramiko==1.15.2 
+pathlib==1.0.1 
+patsy==0.3.0 
+pdfrw==0.2 
+pep8==1.6.2 
+Pillow==2.8.2 
+ply==3.6 
+Polygon==2.0.5 
+pp==1.6.4 
+psutil==3.0.1 
+py==1.4.30 
+py2exe==0.6.9 
+pyamg==2.2.1 
+pyasn1==0.1.8 
+pyasn1-modules==0.0.6 
+PyAudio==0.2.8 
+pycares==0.7.0 
+pycparser==2.14 
+pycrypto==2.6.1 
+pycurl==7.19.5.1 
+pydicom==0.9.9 
+pyemf==2.0.0 
+pyface==4.6.0.dev13 
+pyflakes==0.9.2 
+Pygments==2.0.2 
+pygraphviz==1.3.dev0 
+pyhdf==0.8.3 
+PyHyphen==2.0.5 
+PyICU==1.9.2+xy.1 
+PyJWT==1.3.1.dev2 
+pylint==1.4.3 
+pymc==2.3.4 
+pyMinuit==1.2.1 
+pyodbc==3.0.11b7 
+PyOpenGL==3.1.0 
+PyOpenGL-accelerate==3.1.0 
+pyOpenSSL==0.15.1 
+pyparallel==0.2 
+pyparsing==2.0.3 
+pyPdf==1.13 
+PyPDF2==1.24 
+PyQt4==4.11.3 
+pyreadline==2.0.6+xy.1 
+pyserial==2.7 
+PyStemmer==1.3.0 
+pytest==2.7.3.dev0 
+pytest-bench==0.3.0 
+pytest-cache==1.0 
+pytest-cov==1.8.1 
+pytest-faulthandler==0.2.1 
+pytest-flakes==1.0.0 
+pytest-pep8==1.0.6 
+pytest-runner==2.5.1 
+pytest-xdist==1.13.dev1 
+python-dateutil==2.4.2 
+pytz==2015.4 
+pyusb==1.0.0 
+PyVISA==1.7 
+PyWavelets==0.2.2 
+pywin==0.3.1 
+pywin32==219 
+pywinauto==0.4.2 
+PyYAML==3.11 
+pyzmq==14.7.0 
+reportlab==3.2.0 
+requests==2.7.0 
+requests-oauthlib==0.5.0 
+rope==0.10.2 
+rst2pdf==0.93 
+sampy==1.2.1 
+scandir==1.1.1.dev7 
+scikit-image==0.11.3 
+scikit-learn==0.16.1 
+scimath==4.1.2 
+scipy==0.15.1 
+scp==0.10.2 
+scs==1.1.4 
+seaborn==0.5.1 
+SendKeys==0.3 
+simplejson==3.7.3 
+singledispatch==3.4.0.3 
+six==1.9.0 
+snowballstemmer==1.2.1.dev1 
+Sphinx==1.3.2 
+sphinx-rtd-theme==0.1.8 
+sphinxcontrib-aafig==1.0 
+sphinxcontrib-plantuml==0.6 
+spyder==2.3.5.2 
+SQLAlchemy==1.0.6 
+statsmodels==0.6.1 
+svg2rlg==0.3 
+svglib==0.6.3 
+sympy==0.7.6 
+tables==3.2.0 
+TDS200==0.7 
+Tempita==0.5.2 
+termcolor==1.1.0 
+toolz==0.7.2 
+tornado==4.2 
+traceback2==1.4.0 
+traits==4.5.0 
+traitsui==4.5.1 
+TTFQuery==1.0.5 
+ujson==1.33 
+uncertainties==2.4.6.1 
+unittest2==1.0.1 
+urllib3==1.10.4 
+veusz==1.23.1 
+virtualenv==13.0.3 
+virtualenvwrapper-win==1.2.1 
+ViTables==2.2a1 
+VPython==5.74 
+VTK==6.2.0 
+Werkzeug==0.11.11 
+wheel==0.24.0 
+Whoosh==2.7.0 
+wincertstore==0.2 
+winpdb==1.4.8 
+wsaccel==0.6.2 
+wxPython==2.8.12.1 
+wxPython-common==2.8.12.1 
+xhtml2pdf==0.0.7.dev0 
+xlrd==0.9.3 
+xlwt==1.0.0 
+yappi==0.94 
+yg.lockfile==2.0 
+zc.lockfile==1.1.0 
+Setting Supply Voltage high
+ReStarting the Supply Voltages
+Remote sensing has been disabled
+An external reference clock needs to be manually set
+Target sample rate : 74.00GS/s
+[RBL] Corellian Cortex-M3 ROM Boot Loader (WL)
+[RBL] Date: Nov 24 2015 16:08:39
+[RBL] (C) 2015 Socionext Europe GmbH
+
+[RBL] sflash:man=0xBF,dev=0x2658
+[RBL] read#0:hdr@0x00000000(20),BIN@0x00000014(147008),ld=0x04100000,ex=0x04100141
+[RBL] time#0:54036us
+[RBL] exec#0:0x04100141
+687184 INFO > - Corellian version: 0.8.36
+<687185 INFO > - Starting API service on SSP0
+Running with no temperature forcing system/The temperature needs to be manually set
+AVD09Q			: 0.999 V
+AVD09N_ADC		: 1.001 V
+AVD018			: 1.957 V
+AVD09NEGQ		: -1.016 V
+AVD27			: 2.757 V
+AVD09N			: 1.000 V
+AVD09ASV		: 0.899 V
+VDE				: 1.800 V
+VDD				: 0.889 V
+*****
+VREF			: 0.497 V
+VBGAP			: 1.248 V
+*****
+Vk: 0.297	Va: 1.096	Vf: 0.800	
+Chip temperature = 25.00 °C (head temp: 25.00 °C) 
+[RBL] Corellian Cortex-M3 ROM Boot Loader (WL)
+[RBL] Date: Nov 24 2015 16:08:39
+[RBL] (C) 2015 Socionext Europe GmbH
+
+[RBL] sflash:man=0xBF,dev=0x2658
+[RBL] read#0:hdr@0x00000000(20),BIN@0x00000014(147008),ld=0x04100000,ex=0x04100141
+[RBL] time#0:54036us
+[RBL] exec#0:0x04100141
+687184 INFO > - Corellian version: 0.8.36
+<687185 INFO > - Starting API service on SSP0
+<150 DEBUG > - Dispatching read command 255
+<150 DEBUG > - Dispatch RPC command: transmitter_configure
+<761 DEBUG > - Dispatching read command 255
+<761 DEBUG > - Dispatch RPC command: transmitter_enable
+<762 DEBUG TX> - Turning on the current bias for the DAC channels
+<763 INFO TX> - Testbus ADC vrefp/n set to 0.991, -0.991
+<763 DEBUG TX> - Measured Vref: (0.454) AVS(0.000)
+<764 INFO TX> - Testbus ADC vrefp/n set to 1.982, 0.000
+<764 DEBUG TX> - Measured Vref: (0.454) AVS(0.000)
+<764 DEBUG TX> - Measure ADC spine test voltages
+<769 DATA TX> - {"spine":{"extr_bias":0.448,"extr_cascode":0.283,"intr_bias":0.449,"intr_cascode":0.242,"extr_avs":0.000,"ref":0.500,"intr_avs":0.000,"res1k":0.501,"pb_gen":1.009,"nbiasl":0.292,"pbias":0.601,"pcasc":0.352}}
+<770 INFO TX> - Testbus ADC vrefp/n set to 0.991, -0.991
+<771 DEBUG TX> - Measured Vref: (0.454) AVS(0.000)
+<771 INFO TX> - Testbus ADC vrefp/n set to 1.982, 0.000
+<771 DEBUG TX> - Measured Vref: (0.454) AVS(0.000)
+<771 INFO TX> - Testbus ADC vrefp/n set to 0.991, -0.991
+<772 DEBUG TX> - Measured Vref: (0.454) AVS(0.000)
+<772 INFO TX> - Testbus ADC vrefp/n set to 1.982, 0.000
+<772 DEBUG TX> - Measured Vref: (0.454) AVS(0.000)
+<773 DEBUG TX> - Measure LVDS regulator voltages
+<775 DATA TX> - {"lvds_reg":{"sense":0.988,"avd":1.010,"gate":0.005,"gate_int":0.005,"vbg":1.247}}
+<775 DATA TX> - {"inductor": 2}
+<775 DEBUG TX> - Initialise clock buffer with inductor 2
+<775 DEBUG TX> - setting clock buffer coarse gain 6
+<776 DEBUG TX> - Start and calibrate the PLL
+<776 INFO TX> - count_ref 202850
+<776 INFO TX> - div_ratio 8.114035 fract_val 489776490
+<777 INFO TX> - Wanted: 18.499999744000GHz, Quantized: 18.499999744003GHz, Error: 0.002708Hz
+<777 DATA TX> - {"pll_config":{"variant":2,"vco":0,"calib_taime":100008,"nvco":8,"wanted_freq":18499999744,"ref_clock":285000000.000,"count_ref":202850,"fract_ratio":489776490}}
+<778 INFO TX> - Set filter coefficients
+<778 INFO TX> - Configure the Digital
+<778 INFO TX> - Automatic VCO selection disabled
+<779 INFO TX> - Top left VCOA Selected
+<779 INFO TX> - VCO Series Regulator: ampreg (vcode 8)
+<779 INFO TX> - DAC Series Regulator: bypass
+<779 INFO TX> - Enable Fine DAC
+<779 INFO TX> - CML Divider: VCOA
+<780 INFO TX> - CMOS Dividers: VCOA
+<780 INFO TX> - VCO Direction Detector: VCOA
+<781 INFO TX> - vcofreq 14.880826GHz  (Approx meas accuracy = 38.027356MHz)
+<781 INFO TX> - VCO min freq: 14880826368.000000
+<782 INFO TX> - vcofreq 20.701200GHz  (Approx meas accuracy = 52.982960MHz)
+<787 INFO TX> - VCO max freq: 20701200384.000000
+<791 INFO TX> - TDC: VCOA
+<794 INFO TX> - PLL Cal: enable start BCD=3
+<798 INFO TX> - Enable SubADC calibration
+<917 INFO TX> - calib_value = 0x0b9
+<917 INFO TX> - pll_status = 0x039
+<917 INFO TX> - pll_comp_val = 0x761
+<917 INFO TX> - PLL Calibrated!
+<940 DATA TX> - {"tdc_cal":{"cap_sel":0,"biasdac_range":0,"analog_comp":0,"digit_comp":0,"offset":[0,0,0,0],"calib_value":185,"pll_comp_value":1859,"ramp_error":128,"calmode":4,"int_boundary":2,"vcosel":0,"min_error":20,"max_error":22,"lock":1}}
+<941 INFO TX> - lock history is clear to = 0
+<942 INFO TX> - lock history begin = 0
+<965 INFO TX> - min error begin = 20  
+<965 INFO TX> - max error begin = 21  
+<1101 INFO TX> - lock history = 3
+<1101 INFO TX> - min error = 273  
+<1102 INFO TX> - max error = 273  
+<1102 INFO TX> - PLL started correctly
+<1102 INFO TX> - Measuring clock buffer test voltages
+<1109 DATA TX> - {"clock_buffer_regulator":{"vdsat":0.446,"rega":0.358,"regb":0.357,"regc":0.368,"regd":0.357}}
+<1109 INFO TX> - Measuring clock buffer ampitudes
+<1112 DATA TX> - {"clock_amplitude":{"atrough":0.604,"apeak":1.040,"btrough":0.602,"bpeak":1.039,"ctrough":0.605,"cpeak":1.043,"dtrough":0.606,"dpeak":1.045}}
+<1113 INFO TX> - clock buffer coarse gain sweep
+<1113 DEBUG TX> - setting clock buffer coarse gain 1
+<1122 DEBUG TX> - setting clock buffer coarse gain 2
+<1131 DEBUG TX> - setting clock buffer coarse gain 3
+<1140 DEBUG TX> - setting clock buffer coarse gain 4
+<1148 DEBUG TX> - setting clock buffer coarse gain 5
+<1157 DEBUG TX> - setting clock buffer coarse gain 6
+<1166 DEBUG TX> - setting clock buffer coarse gain 7
+<1175 DEBUG TX> - setting clock buffer coarse gain 8
+<1184 DEBUG TX> - setting clock buffer coarse gain 9
+<1193 DEBUG TX> - setting clock buffer coarse gain 10
+<1201 DEBUG TX> - setting clock buffer coarse gain 11
+<1210 DEBUG TX> - setting clock buffer coarse gain 12
+<1219 DEBUG TX> - setting clock buffer coarse gain 13
+<1228 DEBUG TX> - setting clock buffer coarse gain 14
+<1237 DEBUG TX> - setting clock buffer coarse gain 15
+<1248 DATA TX> - {"cb_coarse_sweep":{"swing":[0.24,0.24,0.24,0.24,0.28,0.28,0.28,0.28,0.31,0.31,0.31,0.31,0.35,0.35,0.35,0.35,0.40,0.41,0.41,0.41,0.44,0.44,0.44,0.44,0.47,0.48,0.48,0.48,0.52,0.52,0.52,0.52,0.58,0.58,0.58,0.58,0.64,0.64,0.62,0.62,0.64,0.64,0.62,0.62,0.64,0.64,0.62,0.62,0.64,0.64,0.62,0.62,0.64,0.63,0.62,0.62,0.64,0.63,0.62,0.62],"regulator":[0.12,0.12,0.12,0.12,0.16,0.16,0.16,0.16,0.19,0.19,0.19,0.19,0.24,0.24,0.24,0.24,0.31,0.31,0.32,0.31,0.36,0.36,0.37,0.36,0.42,0.42,0.44,0.42,0.51,0.51,0.54,0.52,0.67,0.66,0.72,0.69,0.93,0.94,0.94,0.94,0.94,0.94,0.94,0.94,0.94,0.94,0.94,0.94,0.94,0.94,0.94,0.94,0.94,0.94,0.94,0.94,0.94,0.94,0.94,0.94]}}
+<1251 DEBUG TX> - setting clock buffer coarse gain 8
+<1271 DATA TX> - {"cb_fine_sweep":[0.534857,0.536430,0.536454,0.537131,0.530890,0.532487,0.532704,0.533624,0.527141,0.529173,0.528883,0.530237,0.523512,0.525399,0.525472,0.525786,0.520223,0.521263,0.521867,0.522714,0.516376,0.518021,0.517731,0.518965,0.512530,0.513812,0.514659,0.515385,0.509773,0.511055,0.511272,0.511732]}
+<1273 INFO DACQ> - Channel clock alignment
+<1273 DEBUG DACQ> - Enable PI
+<1273 DEBUG DACQ> - Check the voltages in the CML divider
+<1276 DATA DACQ> - {"cml_divider":{"avdq":0.994,"avsq":0.017,"avdn":1.000,"avsn":0.007,"vs_follower":0.491,"vcascode":0.156,"tailnode":0.156,"ibias":0.539}}
+<1277 DEBUG DACQ> - Check the supplies in the quad divider
+<1279 DATA DACQ> - {"pi_quaddiv":{"avs1":0.000,"avd091":1.010,"avd092":1.008,"avs2":0.001}}
+<1279 DEBUG DACQ> - Enable clocks
+<1279 INFO DACQ> - Clock phdet16 alignment window before alignment
+<1300 DATA DACQ> - {"phdet16":[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]}
+<1302 INFO DACQ> - Clock phdet16 alignment window after alignment
+<1323 DATA DACQ> - {"phdet16":[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]}
+<1325 DEBUG DACQ> - Enable phase detectors
+<1326 DATA DACQ> - {"phase_detectors":{"det4g":15,"det2g":15,"det1g":15}}
+<1326 DATA DACQ> - {"phase_detectors":{"det4g":15,"det2g":15,"det1g":15}}
+<1326 DEBUG DACQ> - Align data to clock
+<1428 DATA DACQ> - {"coarse_alignment":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0]}
+<1429 INFO DACQ> - coarse channel alignment
+<1434 INFO DACQ> - Sanity check the clock alignment flags (phdet16 phdet128_quad)
+<1434 INFO DACQ> - PHDET16 locked
+<1434 INFO DACQ> - PHDET128 QUAD locked
+<1450 DATA DACQ> - {"fine_window":{"fine":[128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,192,192,192,192,192,192,192,192,192,192,192,192,192,192,192,192,160,160,160,160,160,160,160,160,160,160,160,160,160,160,160,144,144,144,144,144,144,144,144,144,144,144,144,144,144,144,144,136,136,136,136,136,136,136,136,136,136,136,136,136,136,136,136,136,132,132,132,132,132,132,132,132,132,132,132,132,132,132,132,132,132,132,132,132,132,132,132,130,130,130,130,130,2,2,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]}}
+<1453 INFO DACQ> - Fine data to clock alignment
+<1457 INFO DACQ> - PHDET128 fine flag centred [0x8]
+<1457 DATA DACQ> - {"phase_detectors":{"det4g":15,"det2g":15,"det1g":15}}
+<1458 DATA DACQ> - {"phase_detectors":{"det4g":15,"det2g":15,"det1g":15}}
+<1458 DEBUG DACQ> - Enable data mux and output stage
+<1462 INFO DACQ> - Enable the mux
+<1462 INFO DACQ> - Enable the output stage
+<1462 INFO DACQ> - Enable the cal dacs
+<1462 INFO DACQ> - Measuring testbus values
+<1464 DATA DACQ> - {"ouput_stage_clock_peak":{"peak_hi":[0.663,0.662,0.675,0.668],"peak_lo":[-0.082,-0.098,-0.114,-0.102]}}
+<1612 DATA DACQ> - {"ouput_stage_clock_ampl":{"phasea":0.749,"phaseb":0.765,"phasec":0.790,"phased":0.774}}
+<1614 DATA DACQ> - {"output_voltages":{"outp":1112.603,"outn":833.051}}
+<1618 DATA DACQ> - {"output_stage":{"biascs":-0.252,"vcom_lcnt_lseg":0.533,"vcom_lcnt_lbinw":0.451,"vcs_fb":-0.688,"vcom_lfb_seg":0.014,"vbias_cs_out":-0.365,"vcom_lfb_binw":0.018,"vcom_href":0.016,"vcomh_com_hfb":0.019,"vcomh_comh_sense":-0.018,"vcomh_comh_drive":-0.379}}
+<1621 DATA DACQ> - {"caldac_ref":{"cs_bot":-0.691,"cs_top":-0.019,"sw_bot":-0.015,"sw_top":0.644}}
+<1623 DATA DACQ> - {"caldac_cs":{"cs_test0":-0.346,"cs_test1":-0.347,"bias_cs_in":-0.365,"vsense_sw":-0.015}}
+<1623 INFO DACQ> - Closing timing on LSDB
+<1636 INFO DACQ> - LSDB delay code: 7
+<1636 DATA DACQ> - {"lsdb_timing":{"dacp":[0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,-1.000,0.000],"dacn":[832.971,832.406,832.245,832.245,832.083,832.003,832.083,832.124,832.527,832.406,832.366,832.648,832.285,832.769,832.648,854.419],"code":7}}
+<1665 DATA DACQ> - {"clock_phase_ampl":{"phasea":[0.74613,0.76064,0.76560,0.75895,0.76661,0.76097,0.76568,0.75935,0.76459,0.75879,0.76500,0.75968,0.76431,0.75903,0.76516],"phaseb":[0.76028,0.76742,0.77411,0.76855,0.77488,0.76734,0.77435,0.76717,0.77431,0.76834,0.77314,0.76592,0.77274,0.76621,0.77342],"phasec":[0.78818,0.78024,0.78008,0.77665,0.78100,0.77584,0.78088,0.77492,0.78229,0.77427,0.78024,0.77504,0.77979,0.77435,0.77959],"phased":[0.77290,0.77129,0.77673,0.76754,0.77750,0.76415,0.77637,0.76621,0.77173,0.77092,0.77153,0.76419,0.77564,0.76504,0.77060]}}
+<1668 INFO DACI> - Channel clock alignment
+<1668 DEBUG DACI> - Enable PI
+<1668 DEBUG DACI> - Check the voltages in the CML divider
+<1671 DATA DACI> - {"cml_divider":{"avdq":0.989,"avsq":0.017,"avdn":0.999,"avsn":0.008,"vs_follower":0.490,"vcascode":0.158,"tailnode":0.162,"ibias":0.544}}
+<1672 DEBUG DACI> - Check the supplies in the quad divider
+<1673 DATA DACI> - {"pi_quaddiv":{"avs1":0.000,"avd091":1.005,"avd092":1.002,"avs2":0.002}}
+<1674 DEBUG DACI> - Enable clocks
+<1674 INFO DACI> - Clock phdet16 alignment window before alignment
+<1695 DATA DACI> - {"phdet16":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]}
+<1714 INFO DACI> - Clock phdet16 alignment window after alignment
+<1736 DATA DACI> - {"phdet16":[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]}
+<1764 DEBUG DACI> - Enable phase detectors
+<1769 DATA DACI> - {"phase_detectors":{"det4g":15,"det2g":15,"det1g":15}}
+<1775 DATA DACI> - {"phase_detectors":{"det4g":15,"det2g":15,"det1g":15}}
+<1781 DEBUG DACI> - Align data to clock
+<1887 DATA DACI> - {"coarse_alignment":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1]}
+<1888 INFO DACI> - coarse channel alignment
+<1890 INFO DACI> - Sanity check the clock alignment flags (phdet16 phdet128_quad)
+<1890 INFO DACI> - PHDET16 locked
+<1890 INFO DACI> - PHDET128 QUAD locked
+<1906 DATA DACI> - {"fine_window":{"fine":[128,128,128,128,128,128,128,128,128,128,128,128,128,128,192,192,192,192,192,192,192,192,192,192,192,192,192,192,192,192,160,160,160,160,160,160,160,160,160,160,160,160,160,160,160,144,144,144,144,144,144,144,144,144,144,144,144,144,144,144,144,144,144,136,136,136,136,136,136,136,136,136,136,136,136,136,136,136,136,132,132,132,132,132,132,132,132,132,132,132,132,132,132,132,132,130,130,130,130,130,130,130,130,130,130,2,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]}}
+<1909 INFO DACI> - Fine data to clock alignment
+<1912 INFO DACI> - PHDET128 fine flag centred [0x8]
+<1912 DATA DACI> - {"phase_detectors":{"det4g":15,"det2g":15,"det1g":15}}
+<1912 DATA DACI> - {"phase_detectors":{"det4g":15,"det2g":15,"det1g":15}}
+<1913 DEBUG DACI> - Enable data mux and output stage
+<1916 INFO DACI> - Enable the mux
+<1917 INFO DACI> - Enable the output stage
+<1918 INFO DACI> - Enable the cal dacs
+<1922 INFO DACI> - Measuring testbus values
+<1928 DATA DACI> - {"ouput_stage_clock_peak":{"peak_hi":[0.669,0.669,0.674,0.671],"peak_lo":[-0.101,-0.112,-0.112,-0.103]}}
+<2084 DATA DACI> - {"ouput_stage_clock_ampl":{"phasea":0.773,"phaseb":0.784,"phasec":0.791,"phased":0.778}}
+<2085 DATA DACI> - {"output_voltages":{"outp":1106.757,"outn":831.076}}
+<2089 DATA DACI> - {"output_stage":{"biascs":-0.238,"vcom_lcnt_lseg":0.556,"vcom_lcnt_lbinw":0.443,"vcs_fb":-0.683,"vcom_lfb_seg":0.017,"vbias_cs_out":-0.359,"vcom_lfb_binw":0.003,"vcom_href":0.016,"vcomh_com_hfb":0.017,"vcomh_comh_sense":-0.016,"vcomh_comh_drive":-0.378}}
+<2092 DATA DACI> - {"caldac_ref":{"cs_bot":-0.693,"cs_top":-0.017,"sw_bot":-0.014,"sw_top":0.640}}
+<2094 DATA DACI> - {"caldac_cs":{"cs_test0":-0.347,"cs_test1":-0.347,"bias_cs_in":-0.358,"vsense_sw":-0.013}}
+<2094 INFO DACI> - Closing timing on LSDB
+<2107 INFO DACI> - LSDB delay code: 7
+<2108 DATA DACI> - {"lsdb_timing":{"dacp":[0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,-1.000,0.000],"dacn":[831.116,828.334,827.689,828.778,828.374,828.213,828.052,828.334,828.294,828.173,828.012,827.931,828.213,828.455,842.969,866.231],"code":7}}
+<2136 DATA DACI> - {"clock_phase_ampl":{"phasea":[0.74778,0.76012,0.76528,0.76040,0.76117,0.76665,0.76137,0.76036,0.76750,0.76105,0.76621,0.76020,0.76072,0.76734,0.76145],"phaseb":[0.76246,0.77213,0.78415,0.77358,0.76657,0.77371,0.77310,0.76040,0.77350,0.76588,0.77919,0.77266,0.76113,0.77306,0.76621],"phasec":[0.79564,0.78685,0.78947,0.78318,0.78274,0.78959,0.78302,0.78342,0.79028,0.78306,0.78923,0.78314,0.78233,0.78834,0.78306],"phased":[0.77935,0.77588,0.77774,0.77633,0.76496,0.77737,0.77068,0.76496,0.77161,0.76552,0.77701,0.77197,0.76540,0.77157,0.76532]}}
+<2139 INFO TX> - Measuring up/dwn detector status for full PI rotation
+<2148 DATA TX> - {"lock_status":{"up":[1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0],"down":[0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1],"rotation":-1}}
